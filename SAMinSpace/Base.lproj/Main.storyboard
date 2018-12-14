@@ -176,7 +176,7 @@
             </objects>
             <point key="canvasLocation" x="-1800.8" y="742.5787106446777"/>
         </scene>
-        <!--Item-->
+        <!--News-->
         <scene sceneID="Ebi-20-Kx1">
             <objects>
                 <viewController id="v5t-tq-132" sceneMemberID="viewController">
@@ -192,7 +192,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="5sr-PW-lHi"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="t7Z-MA-LHb"/>
+                    <tabBarItem key="tabBarItem" title="News" image="second" id="t7Z-MA-LHb"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OAE-fG-yk4" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -320,7 +320,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="M3l-0h-EkD"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Tips" id="XeT-Re-uIm"/>
+                    <tabBarItem key="tabBarItem" title="Tips" image="second" id="XeT-Re-uIm"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RA5-LJ-zr8" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -374,7 +374,7 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="O1u-W8-tvY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Call" id="inH-rc-VXD"/>
+                    <tabBarItem key="tabBarItem" title="Call" image="second" id="inH-rc-VXD"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
@@ -538,7 +538,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="DfX-Ld-ePH"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Call" id="7Jh-SM-Aav"/>
+                    <tabBarItem key="tabBarItem" title="Call" image="second" id="7Jh-SM-Aav"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9TT-eM-Ug9" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -645,8 +645,8 @@
         <image name="second" width="30" height="30"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="BmU-S3-HW9"/>
-        <segue reference="cPd-5P-hwJ"/>
-        <segue reference="4EK-on-648"/>
+        <segue reference="EvH-z4-LGd"/>
+        <segue reference="Nxb-vh-uMT"/>
+        <segue reference="Ebf-qb-4pC"/>
     </inferredMetricsTieBreakers>
 </document>
